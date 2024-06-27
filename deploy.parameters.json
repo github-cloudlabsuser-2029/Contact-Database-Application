@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "appName": {
-      "value": "YourUniqueAppName"
+      "value": "WebAppByVijayUsingCoPilot1"
     },
     "appServicePlanSku": {
       "value": "B1"
     },
     "location": {
-      "value": "eastus"
+      "value": "southeastasia"
     }
   }
 }
